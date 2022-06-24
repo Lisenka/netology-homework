@@ -53,5 +53,5 @@
 Knoppix, Raspberry Pi OS, SteamOS, antiX, Astra Linux, Crunchbangplusplus, Deepin, Devuan, gNewSense, LMDE (Linux Mint Debian Edition).
 
 ##### RPM
-Red Hat Linux, CentOS
-Кроме того - Fedora (испытательный стенд для Red Hat Linux), openSUSE, Mandrake Linux.
+Red Hat Linux, CentOS<br/>
+Кроме того \- Fedora (испытательный стенд для Red Hat Linux), openSUSE, Mandrake Linux.
