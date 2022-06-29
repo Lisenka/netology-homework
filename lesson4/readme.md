@@ -83,8 +83,6 @@
 
 my_folder=~/yakunichkina_lesson4_$(date +%Y-%m-%d)
 
-rm -rf "$my_folder"
-
 mv -v ~/yakunichkina_lesson4 "$my_folder";touch "$my_folder"/concept.1;cat /etc/os-release >"$my_folder"/concept.1;echo Якуничкина Алена >>"$my_folder"/concept.1;echo 
 Урок 4 >>"$my_folder"/concept.1;cat "$my_folder"/concept.1 | grep Якуничкина
 
