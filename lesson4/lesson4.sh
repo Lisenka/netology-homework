@@ -92,3 +92,5 @@ echo Задание 6
 sudo apt update
 sudo apt full-upgrade
 sudo apt install -y mc vim
+dpkg --get-selections |grep mc
+dpkg --get-selections |grep vim
