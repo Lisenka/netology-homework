@@ -82,9 +82,10 @@
 ### Результат:
 
 my_folder=~/yakunichkina_lesson4_$(date +%Y-%m-%d)
-rm -rf "$my_folder"
-mv -v ~/yakunichkina_lesson4 "$my_folder";touch "$my_folder"/concept.1;cat /etc/os-release >"$my_folder"/concept.1;echo Якуничкина Алена >>"$my_folder"/concept.1;echo 
 
+rm -rf "$my_folder"
+
+mv -v ~/yakunichkina_lesson4 "$my_folder";touch "$my_folder"/concept.1;cat /etc/os-release >"$my_folder"/concept.1;echo Якуничкина Алена >>"$my_folder"/concept.1;echo 
 Урок 4 >>"$my_folder"/concept.1;cat "$my_folder"/concept.1 | grep Якуничкина
 
 ---
@@ -104,10 +105,15 @@ mv -v ~/yakunichkina_lesson4 "$my_folder";touch "$my_folder"/concept.1;cat /etc/
 ### Результат:
 
 sudo rm -rf /opt/my_link
+
 sudo ln -sv "$my_folder" /opt/my_link
+
 cp -v /opt/my_link/concept.1 /opt/my_link/concept.1.old
+
 rm "$my_folder"/concept.1
+
 ls "$my_folder"
+
 
 ![Task5](/lesson4/task5.jpg "Задание 5")
 
