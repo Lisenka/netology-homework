@@ -81,6 +81,11 @@
 
 ### Результат:
 
+my_folder=~/yakunichkina_lesson4_$(date +%Y-%m-%d)
+
+mv -v ~/yakunichkina_lesson4 "$my_folder";touch "$my_folder"/concept.1;cat /etc/os-release >"$my_folder"/concept.1;echo Якуничкина Алена >>"$my_folder"/concept.1;echo 
+Урок 4 >>"$my_folder"/concept.1;cat "$my_folder"/concept.1 | grep Якуничкина
+
 ---
 
 ### Задание 5.
@@ -96,6 +101,18 @@
 *Сделайте скриншот, вставьте в документ с ДЗ.*
 
 ### Результат:
+
+sudo rm -rf /opt/my_link
+
+sudo ln -sv "$my_folder" /opt/my_link
+
+cp -v /opt/my_link/concept.1 /opt/my_link/concept.1.old
+
+rm "$my_folder"/concept.1
+
+ls "$my_folder"
+
+
 ![Task5](/lesson4/task5.jpg "Задание 5")
 
 ---
@@ -114,7 +131,7 @@
 ![Task6](/lesson4/task6.jpg "Задание 6")
 
 ---
-Скрипт с командами для упражнений
+[Скрипт с командами для упражнений](/lesson4/lesson4.sh/ "Скрипт")
 
 ---
 
