@@ -120,6 +120,6 @@ ps - U root > user_root_ps
 
 Правильно:
 
-ps -U "2"> user_2_ps
+`ps -U "2"> user_2_ps`
 
-ps -U "5"> user_5_ps
+`ps -U "5"> user_5_ps`
