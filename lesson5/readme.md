@@ -91,7 +91,7 @@
 
 ### Ответ:
 
-ps - U root > user_root_ps
+`ps - U root > user_root_ps`
 
 ---
 
