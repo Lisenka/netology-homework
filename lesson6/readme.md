@@ -44,9 +44,9 @@
 
 ### Ответ:
 
-1) sudo dmidecode
-2) lscpu |grep model или cat /proc/cpuinfo |grep model
-3) cat proc/meminfo |grep Inactive
+1) `sudo dmidecode`
+2) `lscpu |grep model` или `cat /proc/cpuinfo |grep model`
+3) `cat proc/meminfo |grep Inactive`
 
 ---
 
