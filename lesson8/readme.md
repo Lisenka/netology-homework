@@ -68,24 +68,40 @@ RAID 10 сочетает в себе производительность RAID 0
 
 ### Ответ:
 [Task5](/lesson8/task5_1.jpg "Задание 5")
+
 *создайте новую VG, добавьте в него 1 диск*
+
 `sudo vgcreate VG1 /dev/sdb`
+
 *создайте 2 LV, распределите доступное пространство между ними поровну*
+
 `sudo lvcreate -n LV1 -l 50%FREE VG1`
 `sudo lvcreate -n LV2 -l 100%FREE VG1`
+
 *создайте на обоих томах файловую систему `xfs`*
+
 `sudo mkfs -t xfs /dev/VG1/LV1`
 `sudo mkfs -t xfs /dev/VG1/LV2`
+
 *создайте две точки монтирования и смонтируйте каждый из томов*
+
 `sudo mount /dev/VG1/LV1 /mnt/LV1`
 `sudo mount /dev/VG1/LV2 /mnt/LV2`
+
 [Task5](/lesson8/task5_2.jpg "Задание 5")
+
 *добавьте в VG второй оставшийся диск*
+
 `sudo vgextend VG1 /dev/sdc`
+
 *расширьте первый LV на объем нового диска*
+
 `sudo lvextend -l +2047 /dev/VG1/LV1`
+
 *расширьте файловую систему на размер нового доступного пространства*
+
 `sudo xfs_growfs /dev/VG1/LV1 -d`
+
 [Task5](/lesson8/task5_3.jpg "Задание 5")
 
 
