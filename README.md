@@ -11,3 +11,5 @@
 #### [2.7 Файловые системы](/lesson9 "readme.md")
 #### [2.8 Ядро операционной системы](/lesson10 "readme.md")
 #### [2.9 Загрузка ОС](/lesson11 "readme.md")
+#### [3.1 Типы дистрибутивов Linux](/lesson12 "readme.md")
+#### [3.2 Управление пакетами Linux](/lesson13 "readme.md")
