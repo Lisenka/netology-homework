@@ -55,7 +55,7 @@
 
 `apt show htop| grep Depends` покажет зависимости.
 
-![Task3(/lesson13/task3.jpg "Задание 3")
+![Task3](/lesson13/task3.jpg "Задание 3")
 
 ---
 
