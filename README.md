@@ -14,3 +14,4 @@
 #### [3.1 Типы дистрибутивов Linux](/lesson12 "readme.md")
 #### [3.2 Управление пакетами Linux](/lesson13 "readme.md")
 #### [3.3 Инициализация системы, Init, systemd](/lesson14 "readme.md")
+#### [3.4 Управление пользователями](/lesson15 "readme.md")
