@@ -3,3 +3,4 @@
 #### [Модуль 1 "IT-системы и Linux"](/Module1 "README.MD")
 
 #### [4.1. Модель OSI/ISO. Обзор сетевых протоколов](/lesson1 "readme.md")
+#### [4.2. L2-сеть](/lesson2 "readme.md")
