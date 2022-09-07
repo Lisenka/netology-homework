@@ -13,10 +13,10 @@
 
 ### Ответ:
 
-![Task1](/lesson16/Task1_1.jpg "Задание 1")
-![Task1](/lesson16/Task1_2.jpg "Задание 1")
-![Task1](/lesson16/Task1_3.jpg "Задание 1")
-![Task1](/lesson16/Task1_4.jpg "Задание 1")
+![Task1](/Module1/lesson16/Task1_1.jpg "Задание 1")
+![Task1](/Module1/lesson16/Task1_2.jpg "Задание 1")
+![Task1](/Module1/lesson16/Task1_3.jpg "Задание 1")
+![Task1](/Module1/lesson16/Task1_4.jpg "Задание 1")
 
 ------
 
@@ -38,22 +38,22 @@
 
 `atop -A`
 
-![Task2](/lesson16/Task2_1.jpg "Задание 2")
+![Task2](/Module1/lesson16/Task2_1.jpg "Задание 2")
 
 `atop -M`
 
-![Task2](/lesson16/Task2_2.jpg "Задание 2")
+![Task2](/Module1/lesson16/Task2_2.jpg "Задание 2")
 
 `atop -E`
 
-![Task2](/lesson16/Task2_3.jpg "Задание 2")
+![Task2](/Module1/lesson16/Task2_3.jpg "Задание 2")
 
 
-![Task2](/lesson16/Task2_4.jpg "Задание 2")
+![Task2](/Module1/lesson16/Task2_4.jpg "Задание 2")
 
-![Task2](/lesson16/Task2_5.jpg "Задание 2")
+![Task2](/Module1/lesson16/Task2_5.jpg "Задание 2")
 
-![Task2](/lesson16/Task2_6.jpg "Задание 2")
+![Task2](/Module1/lesson16/Task2_6.jpg "Задание 2")
 
 ------
 
@@ -68,7 +68,7 @@
 
 ### Ответ:
 
-![Task3](/lesson16/Task3.jpg "Задание 3")
+![Task3](/Module1/lesson16/Task3.jpg "Задание 3")
 
 ------
 
@@ -83,9 +83,9 @@
 
 ### Ответ:
 
-1. ![Task4](/lesson16/Task4_1.jpg "Задание 4") 
+1. ![Task4](/Module1/lesson16/Task4_1.jpg "Задание 4") 
 
-2. ![Task4](/lesson16/Task4_2.jpg "Задание 4") 
+2. ![Task4](/Module1/lesson16/Task4_2.jpg "Задание 4") 
 
 ---
 
@@ -107,7 +107,7 @@
 
 На одном терминале запустила команду `yes`.
 На втором терминале при помощи команды `top` определила PID:
-![Task5](/lesson16/Task5_1.jpg "Задание 5") 
+![Task5](/Module1/lesson16/Task5_1.jpg "Задание 5") 
 
 В каталоге /proc появилась такая дирректория:
-![Task5](/lesson16/Task5_2.jpg "Задание 5") 
+![Task5](/Module1/lesson16/Task5_2.jpg "Задание 5") 

@@ -64,12 +64,12 @@
 
 ### Ответ:
 
-1) ![Task1](/lesson6/task1.jpg "Задание 1")
-2) ![Task2](/lesson6/task2.jpg "Задание 2")
-3) ![Task3](/lesson6/task3.jpg "Задание 3")
-4) ![Task4](/lesson6/task4.jpg "Задание 4")
-5) ![Task5](/lesson6/task5.jpg "Задание 5")
-6) ![Task6](/lesson6/task6.jpg "Задание 6")
+1) ![Task1](/Module1/lesson6/task1.jpg "Задание 1")
+2) ![Task2](/Module1/lesson6/task2.jpg "Задание 2")
+3) ![Task3](/Module1/lesson6/task3.jpg "Задание 3")
+4) ![Task4](/Module1/lesson6/task4.jpg "Задание 4")
+5) ![Task5](/Module1/lesson6/task5.jpg "Задание 5")
+6) ![Task6](/Module1/lesson6/task6.jpg "Задание 6")
 
 ---
 
@@ -92,5 +92,5 @@
 tmpfs - это виртуальная файловая система, которая располагается в оперативной памяти. Наиболее уместно использовать, когда операционная система расположена на карте памяти. В tmpfs можно поместить приложения, которые часто обращаются к файлам. Таким образом снизится нагрузка на карту памяти.
 Помимо этого tmpfs уместно использовать, когда нужен быстрый доступ к файлам, например, баз данных или веб-сервера.
 
-![Task7](/lesson6/task7.jpg "Задание 7")
-![Task8](/lesson6/task8.jpg "Задание 8")
+![Task7](/Module1/lesson6/task7.jpg "Задание 7")
+![Task8](/Module1/lesson6/task8.jpg "Задание 8")

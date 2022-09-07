@@ -18,7 +18,7 @@
 
 ### Ответ:
 
-![Task2](/lesson10/task2.jpg "Задание 2")
+![Task2](/Module1/lesson10/task2.jpg "Задание 2")
 
 ---
 
@@ -98,4 +98,4 @@ insmod path/to/module.ko
 
 ### Ответ:
 
-![Task4](/lesson10/task4.jpg "Задание 4")
+![Task4](/Module1/lesson10/task4.jpg "Задание 4")

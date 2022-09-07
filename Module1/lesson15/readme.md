@@ -8,8 +8,8 @@
 
 ### Ответ:
 
-![Task1](/lesson15/task1_1.jpg "Задание 1")
-![Task1](/lesson15/task1_2.jpg "Задание 1")
+![Task1](/Module1/lesson15/task1_1.jpg "Задание 1")
+![Task1](/Module1/lesson15/task1_2.jpg "Задание 1")
 
 ------
 
@@ -19,7 +19,7 @@
 
 *Приведите ответ в виде снимков экрана.*
 
-![Task2](/lesson15/task2.jpg "Задание 2")
+![Task2](/Module1/lesson15/task2.jpg "Задание 2")
 
 
 ### Ответ:
@@ -53,8 +53,8 @@
 
 ### Ответ:
 
-![Task4](/lesson15/task4_1.jpg "Задание 4")
-![Task4](/lesson15/task4_2.jpg "Задание 4")
+![Task4](/Module1/lesson15/task4_1.jpg "Задание 4")
+![Task4](/Module1/lesson15/task4_2.jpg "Задание 4")
 
 ---
 
@@ -65,5 +65,5 @@
 *Приведите ответ в виде снимков экрана.*
 
 ### Ответ:
-![Task5](/lesson15/task5.jpg "Задание 5")
+![Task5](/Module1/lesson15/task5.jpg "Задание 5")
 

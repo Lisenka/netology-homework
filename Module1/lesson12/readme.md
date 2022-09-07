@@ -103,6 +103,6 @@ RPM:
 
 ### Ответ:
 
-![Task3.5](/lesson12/task3_5_1.jpg "Задание 3.5")
+![Task3.5](/Module1/lesson12/task3_5_1.jpg "Задание 3.5")
 
-![Task3.5](/lesson12/task3_5_2.jpg "Задание 3.5")
+![Task3.5](/Module1/lesson12/task3_5_2.jpg "Задание 3.5")

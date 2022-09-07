@@ -8,7 +8,7 @@
 
 ### Ответ:
 
-![Task1](/lesson17/task1.jpg "Задание 1") 
+![Task1](/Module1/lesson17/task1.jpg "Задание 1") 
 
 ------
 
@@ -28,17 +28,17 @@
 
 iostat на момент начала копирования показал:
 
-![Task2](/lesson17/task2.jpg "Задание 2") 
+![Task2](/Module1/lesson17/task2.jpg "Задание 2") 
 
 Ближе к концу:
 
-![Task2](/lesson17/task2_1.jpg "Задание 2") 
+![Task2](/Module1/lesson17/task2_1.jpg "Задание 2") 
 
 `%iowait` увеличился с 3,62 до 10.35
 
 При помощи iotop можно увидеть какие процессы совершали ввод-выаод:
 
-![Task2](/lesson17/task2_2.jpg "Задание 2") 
+![Task2](/Module1/lesson17/task2_2.jpg "Задание 2") 
 
 ------
 
@@ -62,7 +62,7 @@ iostat на момент начала копирования показал:
 `sudo sysctl vm.swappiness=30` и `sudo sysctl -p`
 Нагрузила память, открыв очень много вкладок в браузере:
 
-![Task3](/lesson17/task3.jpg "Задание 3")
+![Task3](/Module1/lesson17/task3.jpg "Задание 3")
 
 Swap практически закончился.
 
