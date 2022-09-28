@@ -8,4 +8,6 @@
 #### [4.4. L4-сеть](/lesson4 "readme.md")
 #### [4.9. Firewall](/lesson5 "readme.md")
 #### [4.5. NAT](/lesson6 "readme.md")
+#### [4.6. VPN](/lesson7 "readme.md")
+
 
