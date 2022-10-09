@@ -10,3 +10,4 @@
 #### [4.5. NAT](/lesson6 "readme.md")
 #### [4.6. VPN](/lesson7 "readme.md")
 #### [4.7 Высокоуровневые протоколы](/lesson8 "readme.md")
+#### [4.8. Траблшутинг](/lesson9 "readme.md")
