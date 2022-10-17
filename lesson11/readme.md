@@ -59,8 +59,4 @@
 ### Ответ:
 
 ![Task5](/lesson11/task5_1.jpg "Задание 5")
-<<<<<<< HEAD
 ![Task5](/lesson11/task5_2.jpg "Задание 5")
-=======
-![Task5](/lesson11/task5_2.jpg "Задание 5")
->>>>>>> 6a60f7618323329df1fdb390fede6f6f3cd1303d
