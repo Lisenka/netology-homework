@@ -12,3 +12,6 @@
 #### [4.7 Высокоуровневые протоколы](/lesson8 "readme.md")
 #### [4.8. Траблшутинг](/lesson9 "readme.md")
 #### [4.10. DHCP, PXE](/lesson10 "readme.md")
+#### [4.11. DNS](/lesson11 "readme.md")
+#### [4.12 HTTP/HTTPS](/lesson12 "readme.md")
+#### [4.13. IPv6](/lesson13 "readme.md")
