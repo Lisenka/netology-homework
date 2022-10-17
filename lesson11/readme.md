@@ -58,5 +58,5 @@
 
 ### Ответ:
 
-![Task5](/lesson13/task5_1.jpg "Задание 5")
-![Task5](/lesson13/task5_2.jpg "Задание 5")
+![Task5](/lesson11/task5_1.jpg "Задание 5")
+![Task5](/lesson11/task5_2.jpg "Задание 5")
