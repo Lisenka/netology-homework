@@ -15,3 +15,4 @@
 #### [4.11. DNS](/lesson11 "readme.md")
 #### [4.12 HTTP/HTTPS](/lesson12 "readme.md")
 #### [4.13. IPv6](/lesson13 "readme.md")
+#### [5.1. Программирование на Bash : Переменные и условные операторы](/lesson14 "readme.md")
