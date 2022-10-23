@@ -72,6 +72,9 @@ case "$FileName" in
     *.jpg|*.gif|*.png)
         echo "image"
     ;;
+    *.mp3|*.wav)
+        echo "audio"
+    ;;
     *.txt|*.doc)
         echo "text"
     ;;
