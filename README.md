@@ -16,3 +16,4 @@
 #### [4.12 HTTP/HTTPS](/lesson12 "readme.md")
 #### [4.13. IPv6](/lesson13 "readme.md")
 #### [5.1. Программирование на Bash : Переменные и условные операторы](/lesson14 "readme.md")
+#### [5.2 Программирование на Bash. Циклы и функции.](/lesson15 "readme.md")
