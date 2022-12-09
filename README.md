@@ -22,3 +22,5 @@
 #### [5.5 Разбор скриптов и написание своих скриптов. Linter. Shell check.](/lesson18 "readme.md")
 
 #### [6.1. Виртуализация и облачные решения: AWS, GCP, Яндекс.Облако, Openstack](/lesson6_1  "readme.md")
+#### [6.2. Типы виртуализаций KVM, QEMU](/lesson6_2  "readme.md")
+
