@@ -101,6 +101,7 @@
 ```
 2. ![Task5](/lesson7_1/task5_2.jpg "Задание 5")
 
+```yaml
 ---
 - hosts: "all"
   become: true
@@ -117,9 +118,11 @@
       state: started
       enabled: true
  ...
+ ```
 
 3. ![Task5](/lesson7_1/task5_3.jpg "Задание 5")
 
+```yaml
 ---
 - hosts: all
   become: true
@@ -131,6 +134,7 @@
       dest: "/etc/motd"
       content: "{{ motd }}\n"
 ...
+```
 
 ### Задание 6
 
@@ -142,6 +146,7 @@ Playbook должен в качестве приветствия установ�
 
 ### Ответ:
 
+```yaml
 ---
 - hosts: all
   become: true
@@ -151,7 +156,7 @@ Playbook должен в качестве приветствия установ�
       dest: "/etc/motd"
       content: "{{ ansible_facts.default_ipv4.address }} {{ ansible_facts.hostname }}  Hello, {{ ansible_facts.user_id }}\n"
 ...
-
+```
  ---
 
 ### Задание 7
@@ -170,6 +175,7 @@ Playbook должен в качестве приветствия установ�
 
 ![Task6](/lesson7_1/task6.jpg "Задание 6")
 
+```yaml
 playbook5.yaml:
 ---
 - hosts: all
@@ -209,6 +215,7 @@ install_apache/tasks/main.yml:
   ansible.builtin.uri:
     url: http://localhost
 ...
+```
 
 install_apache/templates/index.conf.j2:
 `CPU {{ ansible_processor }} RAM {{ ansible_memtotal_mb }} Disk size {{ ansible_facts['devices']['sda']['size'] }} IP {{ ansible_facts.default_ipv4.address }}`
