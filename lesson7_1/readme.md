@@ -75,6 +75,7 @@
 
 1. ![Task5](/lesson7_1/task5_1.jpg "Задание 5")
 
+```yaml
 ---
 - hosts: all
   become: true
@@ -97,7 +98,7 @@
         dest: /tmp/newdir
         remote_src: yes
 ...
-
+```
 2. ![Task5](/lesson7_1/task5_2.jpg "Задание 5")
 
 ---
@@ -176,9 +177,9 @@ playbook5.yaml:
   roles:
   - name: "Install apache"
     role: install_apache
+...
 
-install_apache/tasks/main.yml 
-
+install_apache/tasks/main.yml: 
 ---
 - name: "Install apache"
   ansible.builtin.apt:
@@ -207,12 +208,10 @@ install_apache/tasks/main.yml
 - name: "Check"
   ansible.builtin.uri:
     url: http://localhost
-
 ...
 
 install_apache/templates/index.conf.j2:
-
-CPU {{ ansible_processor }} RAM {{ ansible_memtotal_mb }} Disk size {{ ansible_facts['devices']['sda']['size'] }} IP {{ ansible_facts.default_ipv4.address }}
+`CPU {{ ansible_processor }} RAM {{ ansible_memtotal_mb }} Disk size {{ ansible_facts['devices']['sda']['size'] }} IP {{ ansible_facts.default_ipv4.address }}`
 
 
 
