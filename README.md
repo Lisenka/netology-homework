@@ -23,4 +23,6 @@
 
 #### [6.1. Виртуализация и облачные решения: AWS, GCP, Яндекс.Облако, Openstack](/lesson6_1  "readme.md")
 #### [6.2. Типы виртуализаций KVM, QEMU](/lesson6_2  "readme.md")
+#### [7.1. Ansible](/lesson7_1  "readme.md")
+
 
