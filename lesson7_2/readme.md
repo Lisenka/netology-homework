@@ -48,7 +48,7 @@
 
 ### Ответ:
 
-![Task4](/lesson4/task4.jpg "Задание 4")
+![Task4](/lesson7_2/task4.jpg "Задание 4")
 
 ---
 
