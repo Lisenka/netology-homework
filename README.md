@@ -25,4 +25,4 @@
 #### [6.2. Типы виртуализаций KVM, QEMU](/lesson6_2  "readme.md")
 #### [7.1. Ansible](/lesson7_1  "readme.md")
 #### [7.2. Terraform](/lesson7_2  "readme.md")
-
+#### [8.1. Git](/lesson8_1  "readme.md")
