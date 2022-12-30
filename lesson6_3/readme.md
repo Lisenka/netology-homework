@@ -62,7 +62,7 @@
 
 ![Task5](/lesson6_3/task5.jpg "Задание 5")
 ![Task5](/lesson6_3/task5_1.jpg "Задание 5")
-![Task5](/lesson6_3/task5_2.jpg "Задание 5"
+![Task5](/lesson6_3/task5_2.jpg "Задание 5")
 
 ---
 
