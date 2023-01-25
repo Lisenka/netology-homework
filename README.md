@@ -25,6 +25,7 @@
 #### [6.2. Типы виртуализаций KVM, QEMU](/lesson6_2  "readme.md")
 #### [6.2. Типы виртуализаций KVM, QEMU](/lesson6_2  "readme.md")
 #### [6.3. Docker. Часть 1](/lesson6_3  "readme.md")
+#### [6.4. Docker. Часть 2](/lesson6_4  "readme.md")
 
 #### [7.1. Ansible](/lesson7_1  "readme.md")
 #### [7.2. Terraform](/lesson7_2  "readme.md")
