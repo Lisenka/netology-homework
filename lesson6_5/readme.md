@@ -110,7 +110,10 @@ spec:
 ### Ответ:
 
 `kubectl exec -it pod/redis-9f87ddf8b-w2vd8 -- ps aux`
+
 `kubectl logs --since=5m redis-9f87ddf8b-w2vd8`
+
 `kubectl delete pod/redis-9f87ddf8b-w2vd8`
+
 `kubectl port-forward pod/redis-9f87ddf8b-gs9qp 12345:80`
 
