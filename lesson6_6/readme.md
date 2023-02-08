@@ -54,4 +54,4 @@ spec:
 
 ### Ответ:
 
-![Task2](/lesson6_7/task2.png "Задание 2")
+![Task2](/lesson6_6/task2.png "Задание 2")
