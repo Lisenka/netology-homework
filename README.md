@@ -34,3 +34,5 @@
 
 #### [8.1. Git](/lesson8_1  "readme.md")
 #### [8.2. Что такое DevOps. СI/СD](/lesson8_2  "readme.md")
+#### [8.3. Что такое DevOps. СI/СD](/lesson8_3  "readme.md")
+
