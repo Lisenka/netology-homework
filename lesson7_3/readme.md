@@ -108,11 +108,11 @@ output "external_ip_address_vm_1" {
 
 ### Ответ:
 
-[Файл: main.tf](lesson7_3/main.tf)
+[Файл: main.tf](/lesson7_3/main.tf)
 
-[Файл: meta.txt](lesson7_3/meta.txt)
+[Файл: meta.txt](/lesson7_3/meta.txt)
 
-[Файл: playbook.yaml](lesson7_3/playbook.yaml)
+[Файл: playbook.yaml](/lesson7_3/playbook.yaml)
 
 ![Task1](/lesson7_3/task1_1.png "Задание 1")
 ![Task1](/lesson7_3/task1_2.png "Задание 1")
