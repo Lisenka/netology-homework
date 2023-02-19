@@ -31,6 +31,7 @@
 
 #### [7.1. Ansible](/lesson7_1  "readme.md")
 #### [7.2. Terraform](/lesson7_2  "readme.md")
+#### [7.2. Подъём инфраструктуры в Yandex Cloud](/lesson7_3  "readme.md")
 
 #### [8.1. Git](/lesson8_1  "readme.md")
 #### [8.2. Что такое DevOps. СI/СD](/lesson8_2  "readme.md")

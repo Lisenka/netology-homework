@@ -1,0 +1,25 @@
+- hosts: 158.160.38.89
+  remote_user: user
+  tasks:
+    - name: "install EPEL repo"
+      become: yes
+      yum: 
+        name: epel-release
+        state: present
+    - name: "Install nginx"
+      become: yes
+      yum:
+        name: nginx
+        state: latest
+        update_cache: yes
+    - name: "Copy config"
+      become: yes
+      copy:
+        src: /root/terraform/nginx/nginx.conf
+        dest: /etc/nginx/nginx.conf
+    - service:
+        name: nginx
+        state: started
+      become: yes
+      become_method: sudo
+ 
