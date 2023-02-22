@@ -19,4 +19,4 @@
 ### Ответ:
 
 ![Task2](/lesson9_1/task2.jpg "Задание 2")
-![Task2](/lesson9_1/task2_1.jpg "Задание 2")
+![Task2](/lesson9_1/task2_2.jpg "Задание 2")
