@@ -38,5 +38,6 @@
 #### [8.3. Что такое DevOps. СI/СD](/lesson8_3  "readme.md")
 
 #### [9.1. «Обзор систем IT-мониторинга»](/lesson9_1  "readme.md")
+#### [9.2 «Zabbix. Часть 1»](/lesson9_2  "readme.md")
 
 
