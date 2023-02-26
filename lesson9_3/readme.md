@@ -6,7 +6,7 @@
 
 ### Ответ:
 
-![Task1](/lesson9_3/task1.jpg "Задание 1")
+![Task1](/lesson9_3/Task1.jpg "Задание 1")
 
  ---
 
@@ -24,7 +24,7 @@
 
 ### Ответ:
 
-![Task2-3](/lesson9_3/task2.jpg "Задание 2-3")
+![Task2-3](/lesson9_3/Task2.jpg "Задание 2-3")
  
  ---
 
@@ -36,4 +36,4 @@
 
 ### Ответ:
  
-![Task4](/lesson9_3/task4.jpg "Задание 4")
+![Task4](/lesson9_3/Task4.jpg "Задание 4")
