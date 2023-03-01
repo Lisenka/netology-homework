@@ -8,7 +8,7 @@
 
 ### Ответ:
 
-![Task1](/lesson9_4/Task1.jpg "Задание 1")
+![Task1](/lesson9_4/task1.jpg "Задание 1")
 
 ---
 
@@ -20,7 +20,7 @@
 
 ### Ответ:
 
-![Task2](/lesson9_4/Task2.jpg "Задание 2")
+![Task2](/lesson9_4/task2.jpg "Задание 2")
 
 ---
 
@@ -33,8 +33,8 @@
 
 ### Ответ:
 
-![Task3](/lesson9_4/Task3_1.jpg "Задание 3")
-![Task3](/lesson9_4/Task3_2.jpg "Задание 3")
+![Task3](/lesson9_4/task3_1.jpg "Задание 3")
+![Task3](/lesson9_4/task3_2.jpg "Задание 3")
 
 ### Задание 4*
 
@@ -44,7 +44,7 @@
 
 ### Ответ:
 
-![Task1](/lesson9_4/Task4.jpg "Задание 4")
+![Task1](/lesson9_4/task4.jpg "Задание 4")
 
 ---
 
@@ -56,4 +56,4 @@
 
 ### Ответ:
 
-![Task5](/lesson9_4/Task5.jpg "Задание 5")
+![Task5](/lesson9_4/task5.jpg "Задание 5")
