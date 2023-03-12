@@ -42,3 +42,5 @@
 #### [9.3 «Система мониторинга Zabbix. Часть 2](/lesson9_3  "readme.md")
 #### [9.4 «Prometheus»](/lesson9_4  "readme.md")
 #### [9.5 «Prometheus. Ч. 2»](/lesson9_5  "readme.md")
+
+#### [10.1 «Keepalived/vrrp»](/lesson10_1  "readme.md")
