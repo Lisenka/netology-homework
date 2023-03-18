@@ -44,3 +44,4 @@
 #### [9.5 «Prometheus. Ч. 2»](/lesson9_5  "readme.md")
 
 #### [10.1 «Keepalived/vrrp»](/lesson10_1  "readme.md")
+#### [10.2 «Кластеризация»](/lesson10_2  "readme.md")
