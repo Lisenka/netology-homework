@@ -47,3 +47,6 @@
 #### [10.2 «Кластеризация»](/lesson10_2  "readme.md")
 #### [10.3 «Pacemaker»](/lesson10_3  "readme.md")
 #### [10.6 «Disaster recovery»](/lesson10_6  "readme.md")
+
+#### [11.1. «Базы данных, их типы»](/lesson11_1  "readme.md")
+
