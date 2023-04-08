@@ -49,4 +49,6 @@
 #### [10.6 «Disaster recovery»](/lesson10_6  "readme.md")
 
 #### [11.1. «Базы данных, их типы»](/lesson11_1  "readme.md")
+#### [11.2. «Кеширование Redis/memcached»](/lesson11_2  "readme.md")
+
 
