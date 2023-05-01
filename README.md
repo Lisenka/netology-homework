@@ -50,5 +50,7 @@
 
 #### [11.1. «Базы данных, их типы»](/lesson11_1  "readme.md")
 #### [11.2. «Кеширование Redis/memcached»](/lesson11_2  "readme.md")
+#### [11.3. «ELK»](/lesson11_3  "readme.md")
+
 
 
