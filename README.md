@@ -53,5 +53,5 @@
 #### [11.3. «ELK»](/lesson11_3  "readme.md")
 #### [11.4. «Очереди RabbitMQ»](/lesson11_4  "readme.md")
 
-#### [12.1. «Базы данных](/lesson12_1  "readme.md")
+#### [12.1. «Базы данных»](/lesson12_1  "readme.md")
 
