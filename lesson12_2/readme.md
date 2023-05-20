@@ -25,9 +25,9 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 ### Ответ:
 
-![Task1](/lesson12_1/task1_1.jpg "Задание 1")
-![Task1](/lesson12_1/task1_2.jpg "Задание 1")
-![Task1](/lesson12_1/task1_3.jpg "Задание 1")
+![Task1](/lesson12_2/task1_1.jpg "Задание 1")
+![Task1](/lesson12_2/task1_2.jpg "Задание 1")
+![Task1](/lesson12_2/task1_3.jpg "Задание 1")
 
 ```
 CREATE USER 'sys_test'@'localhost' IDENTIFIED BY 'password';
@@ -49,6 +49,7 @@ customer         | customer_id
 ```
 ### Ответ:
 
+```
 |Таблица      |Перв. ключ  |
 |actor        |actor_id    |
 |address      |address_id  |
@@ -68,3 +69,4 @@ customer         | customer_id
 |rental       |rental_id   |
 |staff        |staff_id    |
 |store        |store_id    |
+```
