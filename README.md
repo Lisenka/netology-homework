@@ -54,4 +54,4 @@
 #### [11.4. «Очереди RabbitMQ»](/lesson11_4  "readme.md")
 
 #### [12.1. «Базы данных»](/lesson12_1  "readme.md")
-
+#### [12.1. «Работа с данными (DDL/DML)»](/lesson12_2  "readme.md")
