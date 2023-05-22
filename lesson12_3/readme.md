@@ -37,7 +37,7 @@ SELECT * FROM rental ORDER BY rental_date LIMIT 5
 
 ### Ответ:
 ```sql
-SELECT customer_id, LOWER(REPLACE(first_name,'LL','PP')), LOWER(last_name) FROM customer WHERE (first_name LIKE 'Kelly' OR first_name LIKE 'Willie') AND active = TRUE
+SELECT customer_id, REPLACE(LOWER(first_name),'ll','pp'), LOWER(last_name) FROM customer WHERE (first_name LIKE 'Kelly' OR first_name LIKE 'Willie') AND active = TRUE
 ```
 
 ### Задание 5*
