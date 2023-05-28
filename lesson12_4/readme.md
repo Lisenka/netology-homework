@@ -34,7 +34,7 @@ SELECT COUNT(film_id) FROM film WHERE length >(SELECT AVG(length) FROM film)
 ### Ответ:
 
 ```sql
-SELECT SUM(p.amount) as payment_sum, MONTH(p.payment_date) as payment_month, COUNT(r.rental_id) as rental_count
+SELECT SUM(p.amount) as payment_sum, date_format(p.payment_date , '%m.%Y') as payment_month, COUNT(r.rental_id) as rental_count
 FROM payment p
 JOIN rental r ON p.rental_id = r.rental_id
 GROUP BY payment_month
