@@ -57,3 +57,4 @@
 #### [12.2. «Работа с данными (DDL/DML)»](/lesson12_2  "readme.md")
 #### [12.3. «SQL. Часть 1»](/lesson12_3  "readme.md")
 #### [12.4. «SQL. Часть 2»](/lesson12_4  "readme.md")
+#### [12.5. «Индексы»](/lesson12_5  "readme.md")
