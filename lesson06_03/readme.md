@@ -68,8 +68,8 @@ Ritchie Blackmore	Russia
 
 ### Ответ:
 
-![Task3](/lesson06_03/task3_1.jpg "Задание 3")
-![Task3](/lesson06_03/task3_2.jpg "Задание 3")
+![Task3](/lesson06_03/task3_1.png "Задание 3")
+![Task3](/lesson06_03/task3_2.png "Задание 3")
 
 ### Задача 4
 Часть пользователей из таблицы clients решили оформить заказы из таблицы orders.
