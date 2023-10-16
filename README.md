@@ -66,5 +66,6 @@
 
 #### [«Типы и структура СУБД»](/lesson06_01  "readme.md")
 #### [«SQL»](/lesson06_03  "readme.md")
+#### [«MySQL»](/lesson06_04  "readme.md")
 
 
