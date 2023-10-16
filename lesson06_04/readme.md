@@ -17,34 +17,34 @@
 
 ### Ответ:
 
-![Task1](/lesson06_04/task1_1.png "Задание 1")
+![Task1](/lesson06_04/task1_1.jpg "Задание 1")
 
 
-![Task1](/lesson06_04/task1_2.png "Задание 1")
+![Task1](/lesson06_04/task1_2.jpg "Задание 1")
 
 
-![Task1](/lesson06_04/task1_3.png "Задание 1")
+![Task1](/lesson06_04/task1_3.jpg "Задание 1")
 
 
-![Task1](/lesson06_04/task1_4.png "Задание 1")
+![Task1](/lesson06_04/task1_4.jpg "Задание 1")
 
 
-![Task1](/lesson06_04/task1_5.png "Задание 1")
+![Task1](/lesson06_04/task1_5.jpg "Задание 1")
 
 
-![Task1](/lesson06_04/task1_6.png "Задание 1")
+![Task1](/lesson06_04/task1_6.jpg "Задание 1")
 
 
-![Task1](/lesson06_04/task1_7.png "Задание 1")
+![Task1](/lesson06_04/task1_7.jpg "Задание 1")
 
 
-![Task1](/lesson06_04/task1_8.png "Задание 1")
+![Task1](/lesson06_04/task1_8.jpg "Задание 1")
 
 
-![Task1](/lesson06_04/task1_9.png "Задание 1")
+![Task1](/lesson06_04/task1_9.jpg "Задание 1")
 
 
-![Task1](/lesson06_04/task1_10.png "Задание 1")
+![Task1](/lesson06_04/task1_10.jpg "Задание 1")
 
 
 ### Задача 2
@@ -63,7 +63,7 @@
 
 ### Ответ:
 
-![Task2](/lesson06_04/task2.png "Задание 2")
+![Task2](/lesson06_04/task2.jpg "Задание 2")
 
 ### Задача 3
 Установите профилирование SET profiling = 1. Изучите вывод профилирования команд SHOW PROFILES;.
@@ -77,7 +77,7 @@
 
 ### Ответ:
 
-![Task3](/lesson06_04/task3.png "Задание 3")
+![Task3](/lesson06_04/task3.jpg "Задание 3")
 
 ### Задача 4
 Изучите файл my.cnf в директории /etc/mysql.
@@ -93,4 +93,4 @@
 
 ### Ответ:
 
-![Task4](/lesson06_04/task4.png "Задание 4")
+![Task4](/lesson06_04/task4.jpg "Задание 4")
