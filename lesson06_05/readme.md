@@ -31,24 +31,24 @@
 
 вывода списка БД
 
-'\l[+]   [PATTERN]      list databases'
+`\l[+]   [PATTERN]      list databases`
 
 подключения к БД
 
-'\c[onnect] {[DBNAME|- USER|- HOST|- PORT|-] | conninfo}'
+`\c[onnect] {[DBNAME|- USER|- HOST|- PORT|-] | conninfo}`
 
 
 вывода списка таблиц
 
-'\dt[S+] [PATTERN]'
+`\dt[S+] [PATTERN]`
 
 вывода описания содержимого таблиц
 
-'\d[S+]  NAME'
+`\d[S+]  NAME`
 
 выхода из psql.
 
-'\q'
+`\q`
 
 ### Задача 2
 
@@ -101,8 +101,8 @@
 ![Task4](/lesson06_05/task4.jpg "Задание 4")
 
 
-'ALTER TABLE ONLY public.orders_1
-ADD CONSTRAINT title_key UNIQUE (title);'
+`ALTER TABLE ONLY public.orders_1
+ADD CONSTRAINT title_key UNIQUE (title);`
 
-'ALTER TABLE ONLY public.orders_2
-ADD CONSTRAINT title_key UNIQUE (title);'
+`ALTER TABLE ONLY public.orders_2
+ADD CONSTRAINT title_key UNIQUE (title);`
