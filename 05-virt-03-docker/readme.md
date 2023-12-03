@@ -61,5 +61,9 @@ Gitlab-сервер для реализации CI/CD-процессов и пр
 Подключитесь во второй контейнер и отобразите листинг и содержание файлов в /data контейнера.
 
 ### Ответ:
- 
+ ![Task3](/05-virt-03-docker/task3_1.jpg "Задание 3")
+ ![Task3](/05-virt-03-docker/task3_2.jpg "Задание 3")
+ ![Task3](/05-virt-03-docker/task3_3.jpg "Задание 3")
+ ![Task3](/05-virt-03-docker/task3_4.jpg "Задание 3")
+ ![Task3](/05-virt-03-docker/task3_5.jpg "Задание 3")
  ![Task3](/05-virt-03-docker/task3.jpg "Задание 3")
