@@ -73,4 +73,5 @@
 #### [«Введение. Экосистема. Архитектура. Жизненный цикл Docker-контейнера»](/05-virt-03-docker  "readme.md")
 #### [«Оркестрация группой Docker-контейнеров на примере Docker Compose»](/05-virt-04-docker-compose  "readme.md")
 
+#### [«Введение в Terraform»](/hw-01  "readme.md")
 
