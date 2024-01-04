@@ -74,4 +74,5 @@
 #### [«Оркестрация группой Docker-контейнеров на примере Docker Compose»](/05-virt-04-docker-compose  "readme.md")
 
 #### [«Введение в Terraform»](/hw-01  "readme.md")
+#### [«Основы Terraform. Yandex Cloud»](/hw-02  "readme.md")
 
