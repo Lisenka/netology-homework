@@ -46,7 +46,7 @@ provider "yandex" {
 
 ### Ответ:
 
-[**/src**](https://github.com/Lisenka/netology-homework/tree/main/hw-02/src/variables.tf).
+[**/src/variables.tf**](https://github.com/Lisenka/netology-homework/tree/main/hw-02/src/variables.tf).
 
 ### Задание 3
 
