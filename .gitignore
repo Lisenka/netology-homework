@@ -1,1 +1,2 @@
 *.tfvars
+terraform-03/src/terraform.tfstate

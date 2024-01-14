@@ -75,4 +75,4 @@
 
 #### [«Введение в Terraform»](/hw-01  "readme.md")
 #### [«Основы Terraform. Yandex Cloud»](/hw-02  "readme.md")
-
+#### [«Управляющие конструкции в коде Terraform»](/terraform-03  "readme.md")

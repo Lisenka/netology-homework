@@ -1,0 +1,18 @@
+[webservers]
+
+web-1 ansible_host=158.160.112.156 fqdn=fhm5j7tcuvlvkg271e9n.auto.internal
+
+web-2 ansible_host=158.160.109.189 fqdn=fhmp2clmvja8gm3h52kk.auto.internal
+
+
+[databases]
+
+main ansible_host=158.160.96.102 fqdn=fhm6h5mj12q0bq7u11ak.auto.internal
+
+replica ansible_host=158.160.123.190 fqdn=fhm17pvmivtqftns88j0.auto.internal
+
+
+[storage]
+
+storage ansible_host=158.160.109.65 fqdn=fhmbvutdkuns0cnvdepq.auto.internal
+
