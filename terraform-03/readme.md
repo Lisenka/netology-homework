@@ -32,7 +32,7 @@ variable "each_vm" {
 
 ![Task1](/terraform-03/task2_1.jpg "Задание 2")
 ![Task1](/terraform-03/task2_2.jpg "Задание 2")
-![Task1](/terraform-03/task2_2.jpg "Задание 2")
+![Task1](/terraform-03/task2_3.jpg "Задание 2")
 ![Task1](/terraform-03/task2_4.jpg "Задание 2")
 
 ------
