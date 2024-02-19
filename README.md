@@ -78,3 +78,4 @@
 #### [«Управляющие конструкции в коде Terraform»](/terraform-03  "readme.md")
 
 #### [«Введение в Ansible»](/08-ansible-01-base  "readme.md")
+#### [Работа с Playbook»](/08-ansible-02-playbook  "readme.md")
