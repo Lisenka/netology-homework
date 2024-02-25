@@ -77,5 +77,6 @@
 #### [«Основы Terraform. Yandex Cloud»](/hw-02  "readme.md")
 #### [«Управляющие конструкции в коде Terraform»](/terraform-03  "readme.md")
 
-#### [«Введение в Ansible»](/08-ansible-01-base  "readme.md")
-#### [«Работа с Playbook»](/08-ansible-02-playbook  "readme.md")
+#### [«Введение в Ansible»](/08-ansible-01-base "readme.md")
+#### [«Работа с Playbook»](/08-ansible-02-playbook "readme.md")
+#### [«Использование Ansible»](/08-ansible-03-yandex "readme.md")
