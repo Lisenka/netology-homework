@@ -35,8 +35,6 @@
 ![Task1](/09-ci-01-intro/task1_2.jpg "Задание 1")
 ![Task1](/09-ci-01-intro/task1_3.jpg "Задание 1")
 
-![Task1](/09-ci-01-intro/task1_5.jpg "Задание 1")
-
 Workflow для bug:
 ![Task1](/09-ci-01-intro/task1_4.jpg "Задание 1")
 [Схема для bug](/09-ci-01-intro/Bug.xml)
