@@ -80,3 +80,5 @@
 #### [«Введение в Ansible»](/08-ansible-01-base "readme.md")
 #### [«Работа с Playbook»](/08-ansible-02-playbook "readme.md")
 #### [«Использование Ansible»](/08-ansible-03-yandex "readme.md")
+
+#### [Жизненный цикл ПО»](/09-ci-01-intro "readme.md")
