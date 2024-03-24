@@ -82,3 +82,5 @@
 #### [«Использование Ansible»](/08-ansible-03-yandex "readme.md")
 
 #### [«Жизненный цикл ПО»](/09-ci-01-intro "readme.md")
+#### [«Процессы CI/CD»](/09-ci-03-cicd "readme.md")
+
