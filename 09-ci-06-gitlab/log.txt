@@ -1,0 +1,148 @@
+[0KRunning with gitlab-runner 16.5.0 (853330f9)[0;m
+[0K  on first -HW_7h-FA, system ID: s_adb958b9aa48[0;m
+section_start:1713176664:prepare_executor
+[0K[0K[36;1mPreparing the "docker" executor[0;m[0;m
+[0KUsing Docker executor with image docker:20.10.5 ...[0;m
+[0KStarting service docker:20.10.5-dind ...[0;m
+[0KPulling docker image docker:20.10.5-dind ...[0;m
+[0KUsing docker image sha256:0a9822c8848df3eb0a1562e553fdd54215939ef0a528434ee026c64ff645148c for docker:20.10.5-dind with digest docker@sha256:e4ecd4e9ad5140d584669451b05e406d8cf7603e51972b862178ad93c38b2b08 ...[0;m
+[0KWaiting for services to be up and running (timeout 30 seconds)...[0;m
+
+[0;33m*** WARNING:[0;m Service runner--hw7h-fa-project-1-concurrent-0-b463edde6a33390b-docker-0 probably didn't start properly.
+
+Health check error:
+service "runner--hw7h-fa-project-1-concurrent-0-b463edde6a33390b-docker-0-wait-for-service" timeout
+
+Health check container logs:
+2024-04-15T10:24:27.013238316Z waiting for TCP connection to 172.17.0.2 on [2375 2376]...
+2024-04-15T10:24:27.014050773Z dialing 172.17.0.2:2376...
+2024-04-15T10:24:27.014719685Z dialing 172.17.0.2:2375...
+2024-04-15T10:24:28.020571906Z dialing 172.17.0.2:2375...
+2024-04-15T10:24:28.020607927Z dialing 172.17.0.2:2376...
+2024-04-15T10:24:29.021723577Z dialing 172.17.0.2:2375...
+2024-04-15T10:24:29.021768997Z dialing 172.17.0.2:2376...
+
+Service container logs:
+2024-04-15T10:24:26.401922823Z Generating RSA private key, 4096 bit long modulus (2 primes)
+2024-04-15T10:24:26.613813045Z .............++++
+2024-04-15T10:24:27.014153607Z ...........................................................++++
+2024-04-15T10:24:27.014427688Z e is 65537 (0x010001)
+2024-04-15T10:24:27.027375906Z Generating RSA private key, 4096 bit long modulus (2 primes)
+2024-04-15T10:24:27.379440090Z .................................................................................................++++
+2024-04-15T10:24:27.888434223Z ............................................................................................................................................++++
+2024-04-15T10:24:27.888770639Z e is 65537 (0x010001)
+2024-04-15T10:24:27.911123856Z Signature ok
+2024-04-15T10:24:27.911345436Z subject=CN = docker:dind server
+2024-04-15T10:24:27.911527865Z Getting CA Private Key
+2024-04-15T10:24:27.922400447Z /certs/server/cert.pem: OK
+2024-04-15T10:24:27.924890946Z Generating RSA private key, 4096 bit long modulus (2 primes)
+2024-04-15T10:24:27.945348995Z ...++++
+2024-04-15T10:24:28.649875841Z ............................................................................................................................................................................................++++
+2024-04-15T10:24:28.650383742Z e is 65537 (0x010001)
+2024-04-15T10:24:28.671426533Z Signature ok
+2024-04-15T10:24:28.671694568Z subject=CN = docker:dind client
+2024-04-15T10:24:28.671927680Z Getting CA Private Key
+2024-04-15T10:24:28.683041324Z /certs/client/cert.pem: OK
+2024-04-15T10:24:28.685041129Z mount: permission denied (are you root?)
+2024-04-15T10:24:28.685099094Z Could not mount /sys/kernel/security.
+2024-04-15T10:24:28.685116269Z AppArmor detection and --privileged mode might break.
+2024-04-15T10:24:28.685779210Z mount: permission denied (are you root?)
+
+[0;33m*********[0;m
+
+[0KPulling docker image docker:20.10.5 ...[0;m
+[0KUsing docker image sha256:1588477122de4fdfe9fcb9ddeeee6ac6b93e9e05a65c68a6e22add0a98b8e0fe for docker:20.10.5 with digest docker@sha256:7ed427295687586039ff3433bb9b4419c5cf1e6294025dadf7641126665a78f5 ...[0;m
+section_end:1713176699:prepare_executor
+[0Ksection_start:1713176699:prepare_script
+[0K[0K[36;1mPreparing environment[0;m[0;m
+Running on runner--hw7h-fa-project-1-concurrent-0 via debian...
+section_end:1713176699:prepare_script
+[0Ksection_start:1713176699:get_sources
+[0K[0K[36;1mGetting source from Git repository[0;m[0;m
+[32;1mFetching changes with git depth set to 20...[0;m
+Reinitialized existing Git repository in /builds/lisenka/netology/.git/
+[32;1mChecking out e5dbab41 as detached HEAD (ref is main)...[0;m
+
+[32;1mSkipping Git submodules setup[0;m
+section_end:1713176700:get_sources
+[0Ksection_start:1713176700:step_script
+[0K[0K[36;1mExecuting "step_script" stage of the job script[0;m[0;m
+[0KUsing docker image sha256:1588477122de4fdfe9fcb9ddeeee6ac6b93e9e05a65c68a6e22add0a98b8e0fe for docker:20.10.5 with digest docker@sha256:7ed427295687586039ff3433bb9b4419c5cf1e6294025dadf7641126665a78f5 ...[0;m
+[32;1m$ docker build -t $CI_REGISTRY/lisenka/netology/hello:gitlab-$CI_COMMIT_SHORT_SHA .[0;m
+#1 [internal] load build definition from Dockerfile
+#1 sha256:5a302df50e227c62dccd39b91bdc40e0c1a3278947945ae155cd399daf432f1f
+[32;1m$ docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY[0;m
+#1 transferring dockerfile: 279B done
+#1 DONE 0.0s
+
+#3 [internal] load metadata for docker.io/library/centos:7
+#3 sha256:30875b35a89c8e8a29cd7cf120689bb68cdab8d769419707e07138dfe977d237
+#3 DONE 0.0s
+
+#2 [internal] load .dockerignore
+#2 sha256:b41ea32b1d585c1112c49451701d07a875a0f3f4d09bad593e94af1705d5784b
+#2 transferring context: 2B done
+#2 DONE 0.0s
+
+#10 [1/6] FROM docker.io/library/centos:7
+#10 sha256:eccdc23ae33ff032265281cdcd61b6bcb08837a6e55df3e7dcb5aef332534337
+#10 DONE 0.0s
+
+#8 [internal] load build context
+#8 sha256:ce000efd11d00fac2b871a95b53423b64f8de0c098b37ba82261e7eb318adbe1
+#8 transferring context: 509B done
+#8 DONE 0.0s
+
+#9 [2/6] RUN yum install python3 python3-pip -y
+#9 sha256:f594cbcacea9bf6ee395b87584b67c6d49d16708582089e2eb34e8eee4bbdea3
+#9 CACHED
+
+#7 [3/6] COPY requirements.txt requirements.txt
+#7 sha256:38b5c7fbdb21b6b7e28dbc9d18145554baab62135c007a8416861460b964b8ea
+#7 CACHED
+
+#6 [4/6] RUN pip3 install -r requirements.txt
+#6 sha256:5f6554278a60a7eae09ee550639b63815eb8f85606558a00dfb3d73e52039780
+#6 CACHED
+
+#5 [5/6] RUN mkdir python_api
+#5 sha256:83d8f128366b557c87ffc22136e9ed4551fe622fe7a9807b3ac0f1fab2265ed9
+#5 CACHED
+
+#4 [6/6] COPY python-api.py python_api/python-api.py
+#4 sha256:b9eaa8747e48a2480f9ef5cadcabac9f509d3f491f3369c61442fa2998d0f33b
+#4 CACHED
+
+#11 exporting to image
+#11 sha256:09bdc0534ccc0ebf4142ab9a14c7eab1ac547fe513ec6b8f95645ebae20d90a2
+#11 exporting layers done
+#11 writing image sha256:1100502dd97c3de31a51abf62ea5d1243a1f8a680e3584491e17b88fcffc5745 done
+#11 naming to lisenka-netology.gitlab.yandexcloud.net:5050/lisenka/netology/hello:gitlab-e5dbab41 done
+#11 DONE 0.0s
+WARNING! Using --password via the CLI is insecure. Use --password-stdin.
+WARNING! Your password will be stored unencrypted in /root/.docker/config.json.
+Configure a credential helper to remove this warning. See
+https://docs.docker.com/engine/reference/commandline/login/#credentials-store
+
+Login Succeeded
+[32;1m$ docker push $CI_REGISTRY/lisenka/netology/hello:gitlab-$CI_COMMIT_SHORT_SHA[0;m
+The push refers to repository [lisenka-netology.gitlab.yandexcloud.net:5050/lisenka/netology/hello]
+1e58ebf089d6: Preparing
+c15874c057be: Preparing
+aa58cdf6bc86: Preparing
+ec6e69c1a9d3: Preparing
+875bf75c4a4a: Preparing
+174f56854903: Preparing
+174f56854903: Waiting
+875bf75c4a4a: Layer already exists
+ec6e69c1a9d3: Layer already exists
+aa58cdf6bc86: Layer already exists
+c15874c057be: Layer already exists
+174f56854903: Layer already exists
+1e58ebf089d6: Pushed
+gitlab-e5dbab41: digest: sha256:01de33c49167a582eb4cf595a84127980a4a76a0a98fa34ad19ee385f3172a1e size: 1574
+section_end:1713176702:step_script
+[0Ksection_start:1713176702:cleanup_file_variables
+[0K[0K[36;1mCleaning up project directory and file based variables[0;m[0;m
+section_end:1713176702:cleanup_file_variables
+[0K[32;1mJob succeeded[0;m

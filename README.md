@@ -83,4 +83,5 @@
 
 #### [«Жизненный цикл ПО»](/09-ci-01-intro "readme.md")
 #### [«Процессы CI/CD»](/09-ci-03-cicd "readme.md")
+#### [«Gitlab»](/09-ci-06-gitlab "readme.md")
 
