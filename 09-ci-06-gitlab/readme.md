@@ -46,7 +46,7 @@
 
 [log.txt](/09-ci-06-gitlab/log.txt)
 
-![Task1](/09-ci-06-gitlab/task1_5.jpg "Задание 1")
+![Task1](/09-ci-06-gitlab/task1_4.jpg "Задание 1")
 
 
 ### Tester
@@ -59,4 +59,4 @@
 
 ### Ответ:
 
-![Task1](/09-ci-06-gitlab/task1_4.jpg "Задание 1")
+![Task1](/09-ci-06-gitlab/task1_5.jpg "Задание 1")
