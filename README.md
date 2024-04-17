@@ -85,3 +85,5 @@
 #### [«Процессы CI/CD»](/09-ci-03-cicd "readme.md")
 #### [«Gitlab»](/09-ci-06-gitlab "readme.md")
 
+#### [«Системы мониторинга»](/10-monitoring-02-systems "readme.md")
+
