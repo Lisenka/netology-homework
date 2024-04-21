@@ -86,4 +86,6 @@
 #### [«Gitlab»](/09-ci-06-gitlab "readme.md")
 
 #### [«Системы мониторинга»](/10-monitoring-02-systems "readme.md")
+#### [«Средство визуализации Grafana»](/10-monitoring-03-grafana "readme.md")
+
 
