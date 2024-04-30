@@ -87,5 +87,6 @@
 
 #### [«Системы мониторинга»](/10-monitoring-02-systems "readme.md")
 #### [«Средство визуализации Grafana»](/10-monitoring-03-grafana "readme.md")
+#### [«Система сбора логов Elastic Stack»](/10-monitoring-04-elk "readme.md")
 
 
