@@ -91,7 +91,8 @@
 
 #### [«Введение в микросервисы»](/11-microservices-01-intro "readme.md")
 #### [«Микросервисы: принципы»](/11-microservices-02-principles "readme.md")
-#### [«Микросервисы: подходы](/11-microservices-03-approaches "readme.md")
+#### [«Микросервисы: подходы»](/11-microservices-03-approaches "readme.md")
 
+#### [«Kubernetes. Причины появления. Команда kubectl»](/kube1_1 "readme.md")
 
 
