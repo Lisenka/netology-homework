@@ -18,8 +18,10 @@
 
 2,3 Увеличиваю число реплик до 2:
 ![Task1](/kube1_3/task1_3.jpg "Задание 1")
+
 4. [service.yaml](/kube1_3/service.yaml)
 ![Task1](/kube1_3/task1_4.jpg "Задание 1")
+
 5. [multitool.yaml](/kube1_3/multitool.yaml)
 ![Task1](/kube1_3/task1_5.jpg "Задание 1")
 ![Task1](/kube1_3/task1_6.jpg "Задание 1")
@@ -36,6 +38,9 @@
 
 ### Ответ:
 1. [deployment-init.yaml](/kube1_3/deployment-init.yaml)
+
 2. ![Task2](/kube1_3/task2_1.jpg "Задание 2")
+
 3. [service-init.yaml](/kube1_3/service-init.yaml)
+
 4. ![Task2](/kube1_3/task2_2.jpg "Задание 2")
