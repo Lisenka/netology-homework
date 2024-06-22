@@ -12,8 +12,10 @@
 
 1. Если не задать альтернативный порт для multitool, то контейнеры не запускаются:
 ![Task1](/kube1_3/task1_1.jpg "Задание 1")
+
 После внесения изменений в [deployment.yaml](/kube1_3/deployment.yaml) контейнеры запустились:
 ![Task1](/kube1_3/task1_2.jpg "Задание 1")
+
 2,3 Увеличиваю число реплик до 2:
 ![Task1](/kube1_3/task1_3.jpg "Задание 1")
 4. [service.yaml](/kube1_3/service.yaml)
