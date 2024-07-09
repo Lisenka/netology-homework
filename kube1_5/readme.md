@@ -30,5 +30,5 @@
 ### Ответ:
 
 1. ![Task2](/kube1_5/task2_1.jpg "Задание 2")
-2. ![ingress.yaml](/kube1_5/ingress.yaml)
+2. [ingress.yaml](/kube1_5/ingress.yaml)
 3. ![Task2](/kube1_5/task2_2.jpg "Задание 2")
