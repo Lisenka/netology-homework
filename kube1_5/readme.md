@@ -11,12 +11,12 @@
 1. [deployment.yaml](/kube1_5/deployment.yaml)
 2. [multitool.yaml](/kube1_5/multitool.yaml)
 3. [service.yaml](/kube1_5/service.yaml)
-4. [Task1](/kube1_5/task1_1.jpg "Задание 1")
-[Task1](/kube1_5/task1_2.jpg "Задание 1")
-[Task1](/kube1_5/task1_3.jpg "Задание 1")
-[Task1](/kube1_5/task1_4.jpg "Задание 1")
-[Task1](/kube1_5/task1_5.jpg "Задание 1")
-[Task1](/kube1_5/task1_6.jpg "Задание 1")
+4. ![Task1](/kube1_5/task1_1.jpg "Задание 1")
+![Task1](/kube1_5/task1_2.jpg "Задание 1")
+![Task1](/kube1_5/task1_3.jpg "Задание 1")
+![Task1](/kube1_5/task1_4.jpg "Задание 1")
+![Task1](/kube1_5/task1_5.jpg "Задание 1")
+![Task1](/kube1_5/task1_6.jpg "Задание 1")
 
 ------
 
@@ -29,6 +29,6 @@
 
 ### Ответ:
 
-1. [Task2](/kube1_5/task2_1.jpg "Задание 2")
-2. [ingress.yaml](/kube1_5/ingress.yaml)
-3. [Task2](/kube1_5/task2_2.jpg "Задание 2")
+1. ![Task2](/kube1_5/task2_1.jpg "Задание 2")
+2. ![ingress.yaml](/kube1_5/ingress.yaml)
+3. ![Task2](/kube1_5/task2_2.jpg "Задание 2")
