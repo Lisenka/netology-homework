@@ -38,7 +38,7 @@
 
 ### Ответ:
 
-1. 1. [daemonset.yaml](/kube1_6/daemonset.yaml)
+1. [daemonset.yaml](/kube1_6/daemonset.yaml)
 
 ![Task2](/kube1_6/task2_1.jpg "Задание 2")
 
