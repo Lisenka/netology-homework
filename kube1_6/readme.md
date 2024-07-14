@@ -14,6 +14,7 @@
 ### Ответ:
 
 1. [deployment.yaml](/kube1_6/deployment.yaml)
+
 ![Task1](/kube1_6/task1_1.jpg "Задание 1")
 2. Проверим, что файл пишется, доступен из обоих контейнеров и читается из контейнера multitool:
 
@@ -37,6 +38,7 @@
 ### Ответ:
 
 1. 1. [daemonset.yaml](/kube1_6/daemonset.yaml)
+
 ![Task2](/kube1_6/task2_1.jpg "Задание 2")
 
 2. ![Task2](/kube1_6/task2_2.jpg "Задание 2")
