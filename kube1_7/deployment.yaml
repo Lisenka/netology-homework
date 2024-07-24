@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: volumes
+spec:
+  selector:
+    matchLabels:
+      app: volumes
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: volumes
+    spec:
+      nodeSelector:
+         kubernetes.io/hostname: debian
+      containers:
+      - name: busybox
+        image: busybox:1.28
+        command: ['sh', '-c', 'mkdir -p /out/logs && while true; do echo "$(date) - Test message" >> /out/logs/success.txt; sleep 5; done']
+        volumeMounts:
+        - name: volume
+          mountPath: /out/logs
+      - name: multitool
+        image: wbitt/network-multitool
+        command: ['sh', '-c', 'tail -f /out/logs/success.txt']
+        volumeMounts:
+        - name: volume
+          mountPath: /out/logs
+      volumes:
+      - name: volume
+        persistentVolumeClaim:
+          claimName: pvc-vol
