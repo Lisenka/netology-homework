@@ -47,7 +47,7 @@ PV перешел в статус Faild, так как не смог удали�
 
 1. ![Task2](/kube1_7/task2_1.jpg "Задание 2")
 
-2. [deployment-nfs.yaml](/kube1_7/deployment-nfs.yaml)
+2. [deployment-nfs.yaml](/kube1_7/deployment-nfs.yaml) [pvc-nfs.yaml](/kube1_7/pvc-nfs.yaml)
 
 3. ![Task2](/kube1_7/task2_2.jpg "Задание 2")
 
