@@ -1,0 +1,13 @@
+kind: RoleBinding
+apiVersion: rbac.authorization.k8s.io/v1
+metadata:
+  name: read-pods
+  namespace: lisenka
+subjects:
+- kind: User
+  name: lisenka
+  apiGroup: rbac.authorization.k8s.io
+roleRef:
+  kind: Role
+  name: lisenka-role
+  apiGroup: rbac.authorization.k8s.io
