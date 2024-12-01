@@ -414,7 +414,7 @@ deploy:
 
 [Репозиторий GitLab](https://gitlab.com/yakunichkina/netology_diplom)
 
-[Тестовое приложение](http://158.160.54.219:30051/)
+[Тестовое приложение](http://89.169.143.232:30051/)
 
-[Grafana](http://158.160.54.219:30050/login/) потльзователь admin, пароль Netology
+[Grafana](http://89.169.143.232:30050/login/) потльзователь admin, пароль Netology
 
